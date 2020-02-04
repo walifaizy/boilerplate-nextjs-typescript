@@ -1,0 +1,8 @@
+{
+  "name": "boilerplate-nextjs-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:avaneeshtripathi/boilerplate-nextjs-typescript.git",
+  "author": "Avaneesh Tripathi <avaneeshtripathi93@gmail.com>",
+  "license": "MIT"
+}
